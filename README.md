@@ -1,7 +1,8 @@
 # Somya Bhardwaj
 # Hello, I'm Somya Bhardwaj 👋
 
-📧 **Email:** Somyabhardwaj004@gmail.com &nbsp;|&nbsp; ☎️ **Phone:** 8960274119 &nbsp;|&nbsp; 🌐 **Website:** [somyabhardwaj004.infinityfreeapp.com](http://somyabhardwaj004.infinityfreeapp.com) &nbsp;|&nbsp; 💼 **GitHub:** [github.com/somyabhardwaj](https://github.com/somyabhardwaj)
+📧 **Email:** Somyabhardwaj004@gmail.com &nbsp;|&nbsp; ☎️ **Phone:** 8960274119 &nbsp;|&nbsp; 🌐 
+**Website:** [somyabhardwaj004.infinityfreeapp.com](http://somyabhardwaj004.infinityfreeapp.com) &nbsp;|&nbsp; 💼 **GitHub:** [github.com/somyabhardwaj](https://github.com/somyabhardwaj)
 
 ---
 
