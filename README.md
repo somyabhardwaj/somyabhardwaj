@@ -55,6 +55,14 @@
 
 ## Projects
 
+### Notebook on MERN
+
+- Developed a notebook application using the MERN stack.
+- Implemented features for creating, editing, and deleting notes.
+- Showcased skills in full-stack development, CRUD operations, and user interface design.
+- [GitHub Repository]([https://github.com/somyabhardwaj/publicNotebook])
+
+
 ### BookMyShow-like Application (MERN Stack)
 
 - Developed a full-stack application using MongoDB, Express.js, React.js, and Node.js.
@@ -82,12 +90,6 @@
 - Integrated a news API to fetch and display real-time news articles.
 - Utilized React Router DOM for navigation.
 - [GitHub Repository](https://github.com/somyabhardwaj/NewsCenter-React)
-
-### Notebook on MERN
-
-- Developed a notebook application using the MERN stack.
-- Implemented features for creating, editing, and deleting notes.
-- Showcased skills in full-stack development, CRUD operations, and user interface design.
 
 ## Certificates
 
